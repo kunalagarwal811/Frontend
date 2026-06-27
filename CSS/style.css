@@ -1,0 +1,81 @@
+/* * {
+    color: red;
+} */
+
+/* #para{
+    color: red;
+}
+
+.abc{
+    color: blue;
+} */
+
+/* body {
+    background-image: url("https://images.pexels.com/photos/7508276/pexels-photo-7508276.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+/* #a {
+    color: hsl(0,100%,50%);
+    background-color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-style: oblique;
+}
+
+#b {
+    color: rgb(0, 255, 217);
+    background-image: url("https://plus.unsplash.com/premium_photo-1673306778968-5aab577a7365?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fHww");
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+/* #a {
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#b {
+    font-size: 25px;
+    color: white;
+    font-weight: lighter;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.abc {
+    text-decoration: underline
+} */
+
+/* div{
+    width: 1000px;
+    height: 200px;
+    background-color: red;    
+}
+
+p{
+    max-width: 1000px;
+    height: 200px;
+    background-color: rgb(10, 233, 43);
+} */
+
+p{
+    width: 100vw;
+    height: 100vh;
+    color: palevioletred;
+    background-color: black;
+}
+
